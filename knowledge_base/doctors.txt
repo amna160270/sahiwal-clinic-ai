@@ -1,0 +1,5 @@
+Dr. Ahmed Khan - Cardiologist - Available Monday Wednesday Friday - Fee 1500 Rs
+Dr. Sara Ali - Gynecologist - Available Tuesday Thursday Saturday - Fee 1200 Rs
+Dr. Usman Malik - General Physician - Available Daily - Fee 800 Rs
+Dr. Fatima Raza - Pediatrician - Available Monday to Saturday - Fee 1000 Rs
+Dr. Bilal Hussain - Orthopedic Surgeon - Available Wednesday Saturday - Fee 2000 Rs
