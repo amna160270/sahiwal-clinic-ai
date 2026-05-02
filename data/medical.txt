@@ -1,0 +1,24 @@
+Fever is a rise in body temperature above 38°C.
+
+Common symptoms of fever:
+- high temperature
+- chills
+- sweating
+- headache
+- weakness
+
+Causes:
+- viral infection
+- bacterial infection
+
+Headache symptoms:
+- pain in head
+- pressure
+- sensitivity to light
+
+Cough symptoms:
+- throat irritation
+- dry or wet cough
+- chest discomfort
+
+Always consult a doctor if symptoms last more than 3 days.
